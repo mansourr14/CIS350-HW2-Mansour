@@ -1,13 +1,14 @@
 # CIS350-HW2-Mansour
  CIS350 hw2
 # Ryan Mansour
-##Interests
+## Interests
 * Athletics - GVSU Cross Country & Track and Field athlete
 * Disc Golf
 * Cooking
-###Technical Background
+### Technical Background
 I do not have a lot of technical background in coding outside of
 school based teaching. I am passionate and enjoy learning the in
 and outs of coding, but I do not have a presence in coding outside
-of school
-![This is an image](https://www.google.com/search?q=car+meme&rlz=1C1CHBF_enUS968US968&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjQ69He57D6AhU4k4kEHXahBUQQ_AUoAXoECAEQAw&biw=1280&bih=616&dpr=1.5#imgrc=YujPktk396CC7M)
+of school.
+
+![This is an image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cute-shiba-inu-dog-with-laptop-in-room-royalty-free-image-882303800-1551122520.jpg?crop=0.670xw:0.998xh;0.154xw,0.00240xh&resize=640:*)
